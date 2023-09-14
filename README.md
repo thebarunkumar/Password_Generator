@@ -1,4 +1,6 @@
 **About**
+
+
 The Password Generator web application is a practical tool designed to create secure and customizable passwords. It provides users with the ability to generate passwords of varying lengths and complexity, with options to include uppercase letters, lowercase letters, numbers, and symbols. The application is built using HTML, CSS, and JavaScript and offers a user-friendly interface for generating and copying passwords.
 
 **Key Features:**
