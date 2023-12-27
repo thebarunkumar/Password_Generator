@@ -1,5 +1,10 @@
-**About**
+<h1 align="center"><b>Password Generator App</b></h1>
+<h1 align="center"><b>
+  
+![passwordGenerator](https://github.com/thebarunkumar/Password_Generator/assets/77458180/2aaa8f5d-e513-4d50-beb8-6057d50cf3fc)
 
+</b></h1>
+**About**
 
 The Password Generator web application is a practical tool designed to create secure and customizable passwords. It provides users with the ability to generate passwords of varying lengths and complexity, with options to include uppercase letters, lowercase letters, numbers, and symbols. The application is built using HTML, CSS, and JavaScript and offers a user-friendly interface for generating and copying passwords.
 
